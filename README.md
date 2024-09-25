@@ -3,7 +3,7 @@
 
 This GitHub repository is dedicated to supporting the DGLEA Tracing-Board Forum—a vibrant online platform where Freemasons within the DGLEA District can share knowledge, discuss Masonic education, and stay informed about lodge activities. Here, members will find all necessary resources to engage with the forum effectively, including:
 
-- **Sign-Up Guide**: Step-by-step instructions to help new users register and navigate the forum.
+- **Sign-Up Guide**: Step-by-step instructions to help new users register and navigate the forum. [Setup Guide](https://blacktiev2.github.io/TracingBoard/)
 - **Educational Materials**: Links to recommended readings and essential documents that enrich the Masonic journey.
 - **Communication Updates**: Regular updates from the DGLEA Preceptor's Committee, Education Group, and Membership Committee.
 - **Event Calendars**: Updated calendars for all lodge meetings and important district events.
