@@ -1,7 +1,7 @@
 # TracingBoard
 
 
-This GitHub repository is dedicated to supporting the DGLEA Tracing-Board Forum—a vibrant online platform where Freemasons within the DGLEA District can share knowledge, discuss Masonic education, and stay informed about lodge activities. Here, members will find all necessary resources to engage with the forum effectively, including:
+This GitHub repository is dedicated to supporting the DGLEA [Tracing-Board Forum](https://www.ashlar.online/tracing-board)—a vibrant online platform where Freemasons within the DGLEA District can share knowledge, discuss Masonic education, and stay informed about lodge activities. Here, members will find all necessary resources to engage with the forum effectively, including:
 
 - **Sign-Up Guide**: Step-by-step instructions to help new users register and navigate the forum. [Setup Guide](https://blacktiev2.github.io/TracingBoard/)
 - **Educational Materials**: Links to recommended readings and essential documents that enrich the Masonic journey.
