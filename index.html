@@ -48,10 +48,14 @@
         p { 
             margin-bottom: 15px; 
         }
-        /* Ensures images do not scale down too much on smaller screens */
         @media (max-width: 768px) {
+            .container {
+                width: 95%; /* Slightly reduce the container width on smaller screens */
+                padding: 10px; /* Reduce padding to fit smaller screens */
+            }
             img {
-                min-width: 300px;
+                max-width: 100%; /* Ensure images do not exceed the width of the container */
+                height: auto; /* Maintain aspect ratio */
             }
         }
     </style>
