@@ -1,6 +1,6 @@
-### Freemasonry in Indonesia: A Comprehensive Overview of Historical, Social, and Political Impact
+## Freemasonry in Indonesia: A Comprehensive Overview of Historical, Social, and Political Impact
 
-#### Introduction
+### Introduction
 Freemasonry’s presence in Indonesia has been influential yet controversial, contributing to both social reform and political tension. With roots in the 18th century, Freemasonry established itself through its lodges in key urban centers like Batavia (Jakarta) and Bandung. This article seeks to present a well-rounded perspective of Freemasonry’s history, local sentiment, and political involvement, incorporating a broad range of sources to provide a balanced view for the Masonic audience.
 
 ---
@@ -17,13 +17,13 @@ The presence of Freemasonry lodges across major urban centers reflects how the f
 
 ---
 
-
-
-#### Architectural Contributions and Legacy
+### Architectural Contributions and Legacy
 
 One of Freemasonry’s most visible legacies in Indonesia is its contribution to **architecture**. Cities like Bandung, with its **Loji Sint Jan**, exemplify Masonic architecture that remains a part of the city’s heritage. These buildings reflect European influences and serve as a reminder of Freemasonry’s past, such as the **Frobelschool** and **Bandoeng Blinden Institut**, the first school for the blind (Adimiharja et al., 2024). These architectural legacies were essential to local development, reinforcing Freemasonry's identity as "builders" both metaphorically and physically.
 
 Furthermore, the design of **Taman Prasasti Museum** in Jakarta, with tombstones engraved with Masonic symbols, reflects Freemasonry’s lasting impact on Indonesia’s urban landscape (Hamdani, 2022). The fraternity’s influence extended beyond its own members, affecting broader public works and architectural styles, contributing to the cultural fabric of Indonesian cities.
+
+---
 
 ### Cultural Misunderstanding and Local Sentiment: The “Rumah Setan” Myth
 
@@ -39,6 +39,8 @@ Despite the ban on Freemasonry in 1962 by President Sukarno, which marked the of
 
 Nevertheless, Freemasonry’s **architectural legacy** remains, with buildings like the former **Loji Sint Jan** in Bandung serving as reminders of the organization’s past (Adimiharja et al., 2024). These structures, while often misunderstood in their time, now contribute to the historical and cultural fabric of Indonesian cities, reflecting the complexity of Freemasonry’s legacy in the archipelago.
 
+---
+
 ### Freemasonry’s Role in Education and Social Reform
 
 Freemasonry in Indonesia played a pivotal role in advancing education and social reform, particularly through its commitment to **enlightenment ideals** of **rational thought**, **humanitarianism**, and **social equality**. The fraternity’s influence was particularly strong in urban centers like **Bandung**, where Freemasons established **neutral educational institutions** that were not affiliated with religious or political ideologies (Stevens, 2004). This neutrality allowed Freemasonry to foster an environment conducive to intellectual growth and modern learning, which was essential in a colonial society deeply divided by religion and politics. By promoting **secular education**, Freemasonry sought to cultivate an **intellectual elite** capable of contributing to the modernization of Indonesia.
@@ -48,8 +50,6 @@ Among Freemasonry’s most notable contributions to education was the founding o
 Beyond education, Freemasonry’s **social reform efforts** extended to charitable work aimed at improving the welfare of underprivileged communities. The fraternity organized funds to provide clothing and other forms of support to poorer populations, reflecting its broader commitment to **social justice** and **humanitarianism**. These initiatives helped address some of the social inequalities that existed under colonial rule, demonstrating Freemasonry’s role as a **philanthropic force** in the Dutch East Indies (Stevens, 1994).
 
 Although its reach was primarily limited to the **colonial elite**, Freemasonry’s contributions to **education** and **social welfare** helped to modernize Indonesia’s intellectual and social structures. The fraternity’s establishment of secular schools laid the groundwork for **intellectual development**, fostering a generation of leaders who would go on to play critical roles in shaping the nation’s future. Freemasonry’s legacy in social reform and education continues to influence Indonesia today, especially in its contributions to the **secular and humanitarian ideals** that persist in the country’s intellectual and educational frameworks.
-
-I understand your direction now. Let me incorporate the new details regarding **Raden Saleh** and **Raden Said Soekanto** from the CNN Indonesia article while preserving and valuing the existing contributions from other historical figures. Here's the revised version of the section:
 
 ---
 
@@ -72,7 +72,6 @@ Additionally, **Indo-European Freemasons** were key contributors to education an
 These historical figures exemplify how Freemasonry was deeply intertwined with Indonesia’s intellectual and political life. Through their contributions to **education**, **governance**, and **nationalist thought**, these leaders helped shape Indonesia’s path toward modernization and independence. The fraternity’s influence, rooted in **liberty**, **equality**, and **fraternity**, played a crucial role in bridging the gap between **Western modernity** and **Indonesian tradition** during the colonial and post-colonial periods.
 
 ---
-
 
 ### Political Influence and Nationalist Movements
 
@@ -109,6 +108,7 @@ Freemasonry’s decline was not only the result of political action but also a r
 This **ideological conflict** between **Islamic values** and **Western secularism** played a central role in Freemasonry’s decline. As Indonesia asserted its cultural and religious identity, Freemasonry, with its colonial past and foreign ties, was increasingly seen as incompatible with the nation's emerging vision. While Freemasonry contributed significantly to **education** and **social reform**, these efforts were ultimately overshadowed by the powerful cultural and political forces that sought to move beyond the colonial era and build a new national identity based on **religion** and **self-determination**.
 
 ---
+
 ### Modern Revival and Contemporary Sentiment
 
 In 2000, **President Abdurrahman Wahid** (Gus Dur) made a landmark decision by revoking **Presidential Decree No. 264**, which had banned Freemasonry and several other organizations in 1962. This reversal, outlined in **Presidential Decree No. 69/2000**, legally allowed Freemasonry to operate again in Indonesia after nearly four decades of prohibition (Waliyulloh, 2023). Despite this legal shift, Freemasonry has struggled to regain a foothold, and its public presence remains limited. The deeply ingrained historical and cultural opposition, along with the persistence of **Islamic revivalism** and **nationalist ideologies**, has continued to inhibit the fraternity’s ability to re-establish itself in any meaningful way.
@@ -123,6 +123,8 @@ However, the current cultural and political climate remains a significant barrie
 
 Ultimately, while Freemasonry has the legal right to operate, its ability to fully re-establish itself in Indonesia will require a careful balancing act between respecting the country’s cultural context and staying true to its global values of **liberty, equality, and fraternity**. Whether it can successfully navigate these challenges remains uncertain, as the fraternity continues to face deeply entrenched **cultural opposition** and **religious sensitivities** that have persisted since its colonial beginnings.
 
+---
+
 ### Conclusion
 
 Freemasonry’s legacy in Indonesia is marked by its dual role as a **progressive force for social reform** and a symbol of **colonial power**. Throughout its presence in the archipelago, the fraternity contributed significantly to **education**, **social welfare**, and the **intellectual development** of the colonial elite. Its influence extended through **humanitarian initiatives**, which played a crucial role in fostering modern governance, intellectual growth, and social equality during a transformative period in Indonesia’s history.
@@ -133,7 +135,9 @@ Freemasonry’s **humanitarian mission**, rooted in **education** and **social r
 
 Ultimately, Freemasonry’s future in Indonesia will depend on its ability to balance its **humanitarian ideals** with the **cultural and religious values** of modern Indonesia. By acknowledging its past while actively contributing to the present, Freemasonry has the potential to re-establish itself as a relevant and positive force within the fabric of Indonesian society. Whether it can navigate these complex dynamics remains uncertain, but its enduring legacy suggests that it still has a role to play in shaping the future.
 
-### APA 7th Edition End Reference List
+---
+
+### References
 
 Abdillah, R. (2016). *Organisasi Freemason dalam lintas sejarah di Indonesia (1762-1962)*. Doctoral dissertation, UIN Ar-Raniry Banda Aceh.
 
