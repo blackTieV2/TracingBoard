@@ -35,3 +35,26 @@ Le tableau doit avoir sur sa table une petite image remplie d’un tapis d’amo
 | La Très Illustre Maîtresse| Demande mais sous la médaille doit être gravé des clés en soutien.         |
 
 Tout le reste des sœurs font un tableau blanc bordé et doublé de blanc, des gants blancs doublés, avec un cordon blanc au bout duquel pend une treille.
+
+---
+
+## Ouverture de la Loge
+
+Le T. Illustre s'adresse au S. Grand Inspecteur et pose :  
+**D.** Quel est le premier devoir d’un maçon et maçonne ?  
+**R.** L’Illustre fait savoir que nous sommes à l’abri des profanes.  
+
+Le Grand Inspecteur affirme :  
+**D.** Grand Inspecteur, assurez-vous de la Loge et du G.J., après être assuré que la Loge est couverte et que nous sommes en sûreté.  
+Le Grand Inspecteur répond que la Loge est bien couverte et que tout le monde est prêt à recevoir les maîtres.  
+
+**D.** Ma sœur grande Inspectrice, quel est le premier devoir d’un maçon et maçonne ?  
+**R.** Obéir, travailler et se taire.  
+
+L’Illustre ordonne que les FF. et Sœurs frappent ensemble cinq fois dans leurs mains en disant à chaque fois : "Vivat".  
+L’Illustre frappe cinq fois en se mettant face à la table et dit : "Et respect envers le G.J. et le G.I.".  
+L’Illustre instruit que tout le monde formule : "Au travail".  
+La Loge est ouverte.
+
+---
+
