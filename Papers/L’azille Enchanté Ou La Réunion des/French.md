@@ -58,3 +58,34 @@ La Loge est ouverte.
 
 ---
 
+### Réception
+
+La sœur substitut de l'Illustre Maître de Cérémonie, comme on le fait en cette heure, se tient avec la Récipiendaire à la porte de l'atelier. Elle frappe cinq coups qui sont répétés au dedans de la Loge par le Grand Inspecteur, qui dit à l'Illustre qu'on frappe en maçon à la porte de l'atelier.  
+
+L'Illustre répond : "Voyez qui frappe en maçon."  
+Le Grand Inspecteur ouvre les portes, voit qui est dehors, et dit : "La sœur substitut du Maître de Cérémonie qui amène une Dame qui demande à être reçue maçonne."  
+L'Illustre demande : "Lui sont donnés tous nos honneurs ?"  
+Après avoir satisfait à toutes les questions, l'Illustre dit : "Si personne ne s'oppose à la réception, faites entrer la Récipiendaire."  
+La Grande Inspectrice et le Grand Junior se mettent à observer depuis la grande fenêtre.  
+
+L'Illustre dit à la sœur substitut : "Fermez bien toutes les issues."  
+La Récipiendaire entre et se place au centre de la Loge.  
+L'Illustre s'adresse à la Récipiendaire : "Dame, nous vous recevons au sein de notre Loge."  
+
+Gravé quelques Vices a fait subir les Vertus et la probité de ceux que vous souhaitez nous soit un Sûr Garant de votre future Conduite au même égard. Écoutez donc ce que cette digne Sœur et l’honneur vous ordonnent de faire.  
+L. F. Orateur prend la parole et dit :  
+Madame, nous voulons bien croire que la Curiosité ne amène point à la Démarche que vous faites, que livrée avantageusement que vous avez connue de la maçonnerie, et les beaux objets qui vous engagent à souhaiter d’être admise parmi nous, avant de vous révéler nos mystères je dois vous apprendre la grandeur et l’étendue de notre ordre sublime et légitime. La maçonnerie est l’union des hommes actifs et parfaits qui ne peuvent être point témoins dans leurs actions. Votre probité, dans leurs procédés, et la sincérité dans leurs discours. Un maçon ne doit jamais employer son mérite dans ses entreprises ni le fournir, ni le manifester, il est toujours guidé par l’attente, qui ne doit être occupée que des exigences légitimes oubliées et réduites à l’amitié, à la vérité et à l’honneur. Voilà Madame une légère idée des devoirs que vous allez vous imposer, vous formerez souvent ce que vous aurez avancé qui sera complément à la perfection de l’humanité.  
+
+L’engagement que vous allez contracter ne vous viendra strictement avec nous, nous confirmer ce que vous devez à la Religion, à l’État et au Bonnes mœurs. Vous trouverez toujours dans le sein de l’humanité quelque chose à avancer dans notre ordre Respectable.
+
+Après la réponse de la Réception, le Grand Inspecteur dit : Madame veuillez mettre un genou à terre. La main droite sur l’autel et répondez avec moi votre obligation : Après que la Réception a répété son Obligation, le G. I. lui relève et dans l’instant le Grand J. lui remet une Écharpe blanche qu’il tient à sa main et fait l’éloge devant qu’il pouvait. Le G. J. prend La Bonne Sœur met un Juste au fauteuil de la Réception et lui dit vous l’ordre que l’humanité a jamais autant de Sœurs.  
+
+Après quoi le G. J. fait Courir la Réception et se décline et dit qu’elle y est arrivée. Puis dit que demandez-vous Madame ?  
+Réponse : Voir la Lumière.  
+Toutes les FF et Sœurs debout frappent une seconde Cinq fois.
+
+Le Grand J. se retourne à la Réception et dit faite voir la Lumière. L’Orateur examine.
+
+Alors le G. J. se tourne vers l’Orient. 
+Le G. I. ayant conduit la Réception au siège du Sœur lui dit : Madame vous êtes à présent approuvée Maçonne, je ne vous expliquerai que ma forme. En Sœur votre ouvrage huit nous acquitter. Estime et Amitié de tout nous F.F.T jours. Je vois...  
+
