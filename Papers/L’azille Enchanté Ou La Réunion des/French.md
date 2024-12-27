@@ -26,9 +26,12 @@ La Loge doit être tendue de blanc avec des médaillons en distance formés par 
 
 Le tableau doit avoir sur sa table une petite image remplie d’un tapis d’amour. Il porte un cordon bleu. À côté de lui pend une treille. Le tableau doit être bordé de bleu.
 
-| Grand Inspecteur          | Grande Inspectrice          |
-|---------------------------|-----------------------------|
-| Demande à l’Occident que | Bout de la table du dais,   |
-| doit prendre un petit carnet | avec un tableau et cordon au bout duquel pend une médaille sur laquelle est gravé le numéro d’un discours. |
+| Fonction                  | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| Grand Inspecteur          | Demande à l’Occident que bout d’un cordon soit prendre un petit carnet.    |
+| Grande Inspectrice        | Tableau et cordon au bout duquel pend une médaille sur laquelle est gravé le numéro d’un discours. |
+| La Sœur Substitut         | Demande mais sous la médaille doit être gravé avec l’inscription en soutien. |
+| La Sœur Secrétaire        | Demande mais sous la médaille doit être gravé des gages en faveur.         |
+| La Très Illustre Maîtresse| Demande mais sous la médaille doit être gravé des clés en soutien.         |
 
 Tout le reste des sœurs font un tableau blanc bordé et doublé de blanc, des gants blancs doublés, avec un cordon blanc au bout duquel pend une treille.
