@@ -38,7 +38,7 @@ All other sisters create a white tableau bordered and doubled in white, with whi
 
 ---
 
-## Opening of the Lodge
+### Opening of the Lodge
 
 The Very Illustrious addresses the Senior Grand Inspector and asks:  
 **Q.** What is the first duty of a mason and masoness?  
@@ -55,6 +55,25 @@ The Illustrious orders that the Brethren and Sisters clap their hands together f
 The Illustrious strikes five times while facing the table and says: "And respect to the G.J. and the G.I.".  
 The Illustrious instructs everyone to proclaim: "To work".  
 The Lodge is open.
+
+---
+### Reception
+
+---
+
+### Discourse
+
+O God, Lord, all Masons constitute one single and Holy Despot, begotten, unto whom they began to gain knowledge, and with whom they were united. Cain, who succeeded Him in the great office.
+
+The Master, having fixed his gaze upon the Western region, was marked by the Divine through the founding of a city, which He named Enoch, after His son. Thereafter, Jubal—one of his descendants—came to know the Divine Name and, being a shepherd, established lodges. Yet the most renowned mason of all was Enoch, the son of Ygrand, who journeyed to ensure your removal from the common realm; thus humanity has been reestablished in its earthly parish.
+
+Blessed with a spirit of prosperity, he recognized that God’s wrath would not delay its manifestation by a universal flood. Fearing that women—his subordinates—might be exposed to it, he proceeded to inscribe great precepts upon pillars, on which he engraved the principles and the Rules. He made one Column of stone and the other of brick, so that if the flood should come and destroy the latter, the stone Column would remain to preserve for posterity the memory of all that was sacred therein.
+
+Foresight achieved its purpose, for it is said that this very column still existed in the age of the Emperor Vespasian. Its summit was presided over by three judges: the Lady, the Divine Judge, and the Worker of Nature. Yet those who refused consent, having gone forth to commit crimes of every sort, provoked God to intensify His wrath, and it was fire that found clemency before Him. God forewarned that He would flood the earth, and commanded, to sustain them, the building of an Ark of five levels, whose shape and proportions Rain itself indicated. It was made of a fire-resistant bean-wood, already well seasoned.
+
+Five days before the Flood, once the Ark was built, Noah entered it with his family, and by acting as one in unity, they preserved all things, including the instructions and the secrets imparted by God, and most especially those of Masonry.
+
+When Noah and his family departed from the Ark, they and their descendants dwelt for a long time upon the heights of the mountains, fearing another inundation. In due course, realizing that it was possible to settle upon the plain, they established various communities there. Until then, all humankind shared one common tongue; yet there arose some who rebelled against the will of God and, in their pride, turned to masonry to erect a Tower and protect themselves from such a catastrophe. They threatened the earth with a second flood and raised, for this purpose, a Tower they intended to reach the heavens—a bold undertaking indeed. But God, as everyone knows, confounded their languages, forcing them to abandon the work and scatter across the lands. Here, the Reception Candidate is given the Expiation before the tableau; thereafter, the Honorable officiant poses the following questions for the instruction of the Brothers and Sisters of the Order.
 
 ---
 
