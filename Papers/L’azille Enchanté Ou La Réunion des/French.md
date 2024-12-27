@@ -89,3 +89,23 @@ Le Grand J. se retourne à la Réception et dit faite voir la Lumière. L’Orat
 Alors le G. J. se tourne vers l’Orient. 
 Le G. I. ayant conduit la Réception au siège du Sœur lui dit : Madame vous êtes à présent approuvée Maçonne, je ne vous expliquerai que ma forme. En Sœur votre ouvrage huit nous acquitter. Estime et Amitié de tout nous F.F.T jours. Je vois...  
 
+(not complete)
+
+---
+### Discours
+
+O Dieu, Seigneur, tous les maçons forment un même et Saint Déspot, enfante auquel ils commencèrent à connaître, et avec qui ils furent unis. Caïn, qui lui succéda dans la charge de grand.
+
+Maître s’étant fixé vers la Région occidentale, Dieu se signala par la fondation d’une ville qu’il nomma Enoch du nom de son fils. Depuis, Jubal, un de ses descendants, connut le Nom divin et, pasteur, forma des loges ; mais le maçon le plus renommé de tout fut Enoch, fils d’Ygrand, qui marcha pour s’assurer de votre transportation hors du commune : l’homme s’est réintégré dans la paroisse terrestre.
+
+L’esprit de prospérité dont il étoit doué, lui ayant fait connoître que la colère de Dieu n’attendoit pas à se manifester par un déluge universel, la crainte qu’il eut que les femmes, ses infériorités, y fussent exposées, l’emporta à graver des grands préceptes sur des quilles où il grava les principes et les Règles. Il fit une des Colonnes en pierre et l’autre en brique, à fin qu’il fût arrivé que le déluge ruinât celle-ci, la Colonne de pierre restant pour en conserver à la postérité la mémoire de ce qu’il y avoit de sacré.
+
+L’approvoyance eut pour effet, car on assure que cette même colonne subsistait encore au siècle du temps de l’Empereur Vespasien. Le sommet avoit lieu : juges la Dame, le Juge divin et l’ouvrière de la Nature. Mais ceux qui n’irent agréer, étant sortis de commettre des crimes de toutes espèces, Dieu, dans sa colère, redoubla les tourments, et ce fut le feu qui trouva grâce avant lui. Dieu l’avertit qu’il alloit inonder la terre, et lui ordonna, pour s’abreuver, de bâtir une Arche à cinq étages, dont Pluy marqua lui-même la forme et les proportions. Il la faisait de bois de fève incombustible, qui estoit déjà mûr.
+
+Cinq jours avant le Déluge, l’Arche estant construite, Noé y entra avec sa famille, et par le moyen qu’ils firent tous comme un, tout fut conservé, ainsy que les instructions et les secrets communiquez par Dieu, et en particulier ceux de la maçonnerie.
+
+Quand Noé et sa famille furent sortis de l’Arche, eux et leurs descendants séjournèrent long-temps sur le haut des montagnes, dans la crainte d’une nouvelle inondation ; puis, reconnaissant qu’on pouvoit demeurer dans la plaine, ils y firent divers établissements. Jusqu’alors, tous les hommes avoient une mesme langue, mais il en vint encore des rebelles au vouloir de Dieu, qui, dans leur orgueil, employèrent la maçonnerie afin de bastir une Tour pour se mettre à couvert d’un tel fléau. Ils menaçoient la terre d’un second déluge et élevèrent, à cette fin, une Tour qu’ils vouloient porter jusques au Ciel, audacieuse entreprise ; mais Dieu, de la manière que tout le monde sçait, ayant confondu leurs langages, ils furent contraints d’abandonner cet ouvrage et de se disperser. Icy on fait à la Recepcionnaire l’Expiation du tableau ; après cela, l’Honorable fait les questions suivantes pour l’instruction des frères et sœurs de l’Ordre.
+
+---
+
+
