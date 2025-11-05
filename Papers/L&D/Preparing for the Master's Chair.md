@@ -152,7 +152,9 @@ The key to success lies in **proper preparation.** Ideally, this should develop 
 > The progress of a Candidate should **not** be governed by the needs of a Lodge that wants something to do, but rather should at all times be geared to the needs of the Candidate.
 
 ---
+
 <p align="right"><a href="#contents">Back to top ↑</a></p>
+
 ---
 
 ### Key Duties of Important Offices
