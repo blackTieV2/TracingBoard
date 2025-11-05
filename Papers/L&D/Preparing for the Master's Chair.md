@@ -266,9 +266,7 @@ This relatively recent Office is a crucial one. It is his job to:
 
 ---
 
-Got it — reverting to **exact transcription** (with your substitutions) and **GitHub-friendly Markdown**.
-Replacements applied throughout: **“Durham” → “DGLEA”** and **“Province/Provincial/Provinces” → “District/District/Districts.”**
-Letterheads removed. Formatting only (no wording changes beyond the above substitutions).
+<p align="right"><a href="#contents">Back to top ↑</a></p>
 
 ---
 
@@ -302,6 +300,10 @@ Apart from the ceremony itself, there are a number of basic components which usu
   1st Rising – Grand Lodge  
   2nd Rising – District Grand Lodge  
   3rd Rising – Your Lodge
+
+---
+
+<p align="right"><a href="#contents">Back to top ↑</a></p>
 
 ---
 
@@ -390,6 +392,10 @@ The Installation Ceremony is an important milestone for any Master Elect and for
 
 ---
 
+<p align="right"><a href="#contents">Back to top ↑</a></p>
+
+---
+
 ## Occupying the Chair for The Festive Board (The Installation)
 
 Clearly, every Masonic building is unique and the quality of experience to be enjoyed will always be dependent upon the surroundings, catering standards etc. Nevertheless, regardless of these factors, the Worshipful Master should always remember that he is expected to manage a host of things at the Festive Board. No doubt, the Director of Ceremonies and Secretary will have evolved a way of working so that nothing is forgotten but he should make himself acquainted with the running order.
@@ -457,7 +463,8 @@ Select a suitable Proposer and Visitor to reply and inform them as early as poss
 
 ### Tyler’s Toast – **Catch the eye of the Tyler** before this toast to make sure he is prepared.
 
-Summoned by a Double-knock! Ensure Tyler is well versed with both the wording and Fire technique.
+Summoned by a Double-knock! Ensure Tyler is well versed with both the wording and Fire technique. 
+This is dependent on the practice of your lodge. Your lodge may only Knock Once and not answered by your wardens. Check with your Lodge DC
 
 **Actions**
 
@@ -465,6 +472,10 @@ Summoned by a Double-knock! Ensure Tyler is well versed with both the wording an
 * Generate your own working plan of the Festive board including Wine Takings, Absent Brethren , Pre-amble and Toast List with proposers / replies.
 * Select a worthy cause for the Raffle and promote accordingly
 * Prepare your response to the Master’s Toast – practice it!
+
+---
+
+<p align="right"><a href="#contents">Back to top ↑</a></p>
 
 ---
 
@@ -502,6 +513,10 @@ Summoned by a Double-knock! Ensure Tyler is well versed with both the wording an
 * Select a worthy cause for the Raffle and promote accordingly.
 * Prepare your response to the Master’s Toast – practice it!
 * Plan a short-list of Proposers for the Visitors Toast.
+
+---
+
+<p align="right"><a href="#contents">Back to top ↑</a></p>
 
 ---
 
