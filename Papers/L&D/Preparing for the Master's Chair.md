@@ -1,10 +1,8 @@
-Here’s the requested **transcription and markdown formatting** of the first six pages of *Preparing for the Master’s Chair (DGLEA)* — formatted for clean readability in GitHub Markdown, and with your replacements applied:
 
 ---
 
 # Preparing for the Master’s Chair
 
-**DGLEA – Final – Oct 2023**
 
 ---
 
