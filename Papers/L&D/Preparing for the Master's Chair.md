@@ -157,7 +157,7 @@ The key to success lies in **proper preparation.** Ideally, this should develop 
 
 ---
 
-### Key Duties of Important Offices
+### Key Duties of Offices
 
 #### The Secretary
 
