@@ -29,6 +29,35 @@ It is for each member to consider each part of the module and then to apply the 
 
 ---
 
+## Contents
+
+- [Part One: Preparation](#part-one-preparation)
+  - [Attending Management Committees Before Your Year](#attending-management-committees-before-your-year)
+  - [Selecting and Working with Officers](#selecting-and-working-with-officers)
+  - [Selecting Non-Progressive Officers](#selecting-non-progressive-officers)
+  - [Selecting Progressive Officers](#selecting-progressive-officers)
+  - [Overseeing the Day-to-Day Matters Concerning the Lodge](#overseeing-the-day-to-day-matters-concerning-the-lodge)
+  - [Planning the Year’s Work](#planning-the-years-work)
+  - [Interviewing and Balloting Candidates](#interviewing-and-balloting-candidates)
+  - [Key Duties of Officers](#key-duties-of-officers)
+    - [The Secretary](#the-secretary)
+    - [The Director of Ceremonies](#the-director-of-ceremonies)
+    - [The Almoner](#the-almoner)
+    - [The Charity Steward](#the-charity-steward)
+    - [The Lodge Mentor](#the-lodge-mentor)
+    - [Lodge Membership Officer](#lodge-membership-officer)
+- [Part Two: Occupying the Chair](#part-two-occupying-the-chair)
+  - [Occupying the Chair for Regular Meetings](#occupying-the-chair-for-regular-meetings)
+  - [Occupying the Chair for Installation Meeting](#occupying-the-chair-for-installation-meeting)
+    - [District Visitors](#district-visitors)
+    - [Appointment & Investiture of Your Officers](#appointment--investiture-of-your-officers)
+    - [Completing the Agenda](#completing-the-agenda)
+    - [Outgoing Procession](#outgoing-procession)
+  - [Occupying the Chair for The Festive Board (The Installation)](#occupying-the-chair-for-the-festive-board-the-installation)
+  - [Occupying the Chair for Festive Board (Regular Meeting)](#occupying-the-chair-for-festive-board-regular-meeting)
+
+---
+
 ## PART ONE: PREPARATION
 
 Preparation takes time. If you speak to an experienced Mason of long standing who has been Master of his Lodge, he will probably tell you that it took over a decade, at least, to reach that rank following his initiation. That meant that there was plenty of time to *learn the ropes.*
