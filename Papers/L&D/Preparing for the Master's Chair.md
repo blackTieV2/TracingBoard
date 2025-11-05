@@ -39,7 +39,7 @@ It is for each member to consider each part of the module and then to apply the 
   - [Overseeing the Day-to-Day Matters Concerning the Lodge](#overseeing-the-day-to-day-matters-concerning-the-lodge)
   - [Planning the Year’s Work](#planning-the-years-work)
   - [Interviewing and Balloting Candidates](#interviewing-and-balloting-candidates)
-  - [Key Duties of Officers](#key-duties-of-officers)
+  - [Key Duties of Officers](#key-duties-id)
     - [The Secretary](#the-secretary)
     - [The Director of Ceremonies](#the-director-of-ceremonies)
     - [The Almoner](#the-almoner)
@@ -156,7 +156,7 @@ The key to success lies in **proper preparation.** Ideally, this should develop 
 <p align="right"><a href="#contents">Back to top ↑</a></p>
 
 ---
-
+<a id="key-duties-id"></a>
 ### Key Duties of Offices
 
 #### The Secretary
