@@ -65,3 +65,29 @@ flowchart TD
     classDef root fill:#f9c,stroke:#333,stroke-width:2px;
 
 ```
+
+```mermaid
+flowchart TD
+    %% STRONGEST LINEAGE: DARK ELF → KNECHT / BELSNICKEL → KRAMPUS → COAL
+
+    A[Pre-Christian Dark Spirit Archetype<br/>Percht / Dark Elf / Kobold]:::root
+
+    A --> B[Knecht Ruprecht<br/>Germany – St. Nicholas' dark servant & punisher]
+    A --> C[Belsnickel / Pelznickel<br/>German & Pennsylvania Dutch fur‑clad punisher]
+
+    %% INTERACTION BETWEEN EARLY COMPANIONS
+    B --- C
+
+    %% KRAMPUS AS INTENSIFIED FORM
+    B --> D[Krampus / Grampus<br/>Alpine horned, half‑beast child punisher]
+    C --> D
+
+    %% PUNISHMENT METHODS
+    D --> E[Beatings, Bundles of Switches, Sacks, Threat of Abduction]
+
+    %% SYMBOLIC SOFTENING
+    E --> F[“No Gifts / Only Tokens” Stories<br/>Fear reduced, lesson kept]
+    F --> G[Coal or Small Bad Gifts for Naughty Kids<br/>Modern global tradition]
+
+    classDef root fill:#f9c,stroke:#333,stroke-width:2px;
+```
