@@ -87,29 +87,30 @@ Direct
 flowchart TD
 
     %% ROOT
-    A[St Nicholas of Myra<br/>4th c. bishop, Dec 6 gift giver]:::root
+    A[St Nicholas of Myra<br/>Fourth century bishop, December 6 gift giver]:::root
 
     %% MEDIEVAL–EARLY MODERN
-    A --> B[Medieval St Nicholas Cult<br/>Patron of children, sailors, towns]
-    B --> C[Sinterklaas<br/>Netherlands – bishop on horse, ship from Spain, Dec 5–6]
+    A --> B[Medieval St Nicholas Cult<br/>Patron of children, sailors and towns]
+    B --> C[Sinterklaas<br/>Netherlands – bishop on horse, ship from Spain, early December]
 
     %% COLONIAL DUTCH → AMERICAN
-    C --> D[Colonial Sinterklaas<br/>New Amsterdam / New York Dutch settlers]
-    D --> E[Santaclaus / St Nick in NY Lore<br/>Name anglicised, date drifts toward Dec 25]
+    C --> D[Colonial Sinterklaas<br/>New Amsterdam and New York Dutch settlers]
+    D --> E[Santaclaus or St Nick in New York lore<br/>Name anglicised, date drifts toward December 25]
 
     %% 19TH CENTURY LITERARY & VISUAL
     E --> F["A Visit from St Nicholas" 1823<br/>Sleigh, reindeer, chimney, toy sack]
-    F --> G[Thomas Nast Illustrations 1860s–1880s<br/>North Pole, workshop, list, red suit prototype]
+    F --> G[Thomas Nast illustrations 1860s to 1880s<br/>North Pole, workshop, list, red fur suit prototype]
 
     %% EARLY 20TH C. COMMERCIAL SANTA
-    G --> H[Early 20th c. American Santa<br/>Department store Santa, postcards, adverts]
+    G --> H[Early twentieth century American Santa<br/>Department store Santa, postcards, adverts]
 
-    %% COKE-ERA STANDARDIZATION
-    H --> I[1930s Coca Cola Santa (Sundblom)<br/>Plump, red and white, friendly grandfather image]
+    %% COKE ERA STANDARDIZATION
+    H --> I[1930s Coca Cola Santa by Sundblom<br/>Plump, red and white, friendly grandfather image]
 
     %% MODERN GLOBAL SANTA
     I --> J[Modern Santa Claus<br/>North Pole, flying reindeer, global Christmas Eve gifts]
 
     classDef root fill:#f9c,stroke:#333,stroke-width:2px;
+
 ```
 
