@@ -2,7 +2,7 @@
 
 ## Status
 
-IN PROGRESS
+STRUCTURE CREATED / DECISION RECORD ADDED
 
 ## Objective
 
@@ -35,3 +35,11 @@ The new structure separates:
 ## Rule
 
 No legacy content is deleted during Phase 0.
+
+## Phase 0 Decision Records
+
+- ADR-0001-platform-architecture.md
+
+## Repository Hygiene
+
+- .gitattributes added to normalise line endings across Windows, GitHub, Codex, Lovable, and Linux deployment environments.
