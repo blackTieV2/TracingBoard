@@ -1,0 +1,61 @@
+schema_version: "1.0"
+document_id: "tb-agent-operating-rules"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+priority_order:
+  - "ADR files in 00_project_control/decisions"
+  - "llm_context YAML files"
+  - "explicit current user instruction"
+  - "existing repository structure"
+  - "general best practice"
+
+global_rules:
+  - "Preserve split architecture."
+  - "Prefer structured YAML for LLM-readable source of truth."
+  - "Use Markdown only for short human/agent summaries."
+  - "Use HTML only for rendered reports or interactive review artifacts."
+  - "Do not create long Markdown policy essays as primary source of truth."
+  - "Do not invent facts, endorsements, or historical claims."
+  - "Do not add secrets."
+  - "Do not expose home-lab infrastructure."
+  - "Use branch-based changes."
+  - "Keep commits focused."
+
+format_rules:
+  yaml:
+    use_for:
+      - "Product requirements"
+      - "Architecture context"
+      - "Policy logic"
+      - "Roles"
+      - "Category models"
+      - "Agent instructions"
+    style:
+      - "Clear keys"
+      - "Short values"
+      - "Stable IDs where useful"
+      - "No decorative prose"
+  markdown:
+    use_for:
+      - "README"
+      - "Short ADRs"
+      - "Brief summaries"
+    avoid:
+      - "Long policy source-of-truth documents"
+  html:
+    use_for:
+      - "Visual briefs"
+      - "Review reports"
+      - "Interactive mockups"
+      - "Dashboards"
+    caveat: "HTML is not the source of truth unless explicitly declared."
+
+human_review_required_for:
+  - "Official District positioning"
+  - "Masonic boundaries and ritual-sensitive material"
+  - "Moderation escalation rules"
+  - "Hosting changes"
+  - "Security changes"
+  - "Email provider choice"
+  - "Public launch"

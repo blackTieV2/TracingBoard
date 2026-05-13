@@ -1,0 +1,70 @@
+schema_version: "1.0"
+document_id: "tb-codex-handoff"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+prompt_for_codex: |
+  You are working on the TracingBoard GitHub repository.
+
+  Treat the files in llm_context/ as the structured source of truth for Phase TB-1.
+
+  Your job is not to reinvent the product. Your job is to operationalise the approved architecture and context.
+
+  Mandatory constraints:
+  - Do not build a custom forum.
+  - Do not replace Discourse as the community engine unless a new ADR exists.
+  - Do not expose Layer-8 Labs or home-lab infrastructure for production.
+  - Do not create or commit secrets.
+  - Do not invent official District endorsement.
+  - Do not invent unsupported Masonic historical claims.
+  - Preserve the split architecture: tracingboard.org for public site, community.tracingboard.org for Discourse.
+  - Use GitHub as the source of truth.
+
+  Preferred tasks:
+  - Create or update files according to the YAML context.
+  - Validate YAML syntax.
+  - Normalize formatting.
+  - Create pull requests with clear summaries.
+  - Build public site code only from the approved Lovable/product brief.
+  - Create deployment scripts only after hosting choices are confirmed.
+  - Keep changes small, reviewable, and branch-based.
+
+repo:
+  expected_name: "TracingBoard"
+  expected_remote: "https://github.com/blackTieV2/TracingBoard.git"
+  source_of_truth_branch: "main"
+
+paths:
+  context_root: "llm_context"
+  project_control: "00_project_control"
+  public_site_app: "apps/landing-site"
+  discourse_root: "discourse"
+  infra_root: "infra"
+
+branching:
+  default_branch: "main"
+  branch_naming:
+    context_updates: "phase-tb1-llm-context"
+    lovable_site: "phase-tb2-public-site"
+    discourse_planning: "phase-tb3-discourse-plan"
+    infra: "phase-tb4-infra"
+
+review_rules:
+  - "Summarise changed files."
+  - "Identify any contradiction with ADR-0001."
+  - "Identify any security-sensitive issue."
+  - "Identify any unsupported claim."
+  - "Do not silently broaden scope."
+  - "Ask for human decision when authority or governance is unclear."
+
+validation_commands:
+  powershell:
+    - "git status --short"
+    - "git diff --check"
+  yaml_validation_suggestion: "Use a YAML parser in CI or local tooling before merge."
+
+known_current_state:
+  phase_0:
+    status: "Merged to main"
+    merge_commit: "8a504ee"
+    description: "Phase 0 platform repository structure merged and pushed."

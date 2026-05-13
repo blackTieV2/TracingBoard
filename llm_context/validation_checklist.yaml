@@ -1,0 +1,58 @@
+schema_version: "1.0"
+document_id: "tb-validation-checklist"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+before_commit:
+  - "Confirm branch is not dirty before starting."
+  - "Confirm all YAML files parse."
+  - "Confirm no secrets are present."
+  - "Confirm no private personal data is present."
+  - "Confirm no unsupported official District endorsement is implied."
+  - "Confirm no custom forum requirement has been introduced."
+  - "Confirm no home-lab public hosting requirement has been introduced."
+
+before_lovable:
+  - "Confirm public site scope."
+  - "Confirm visual direction."
+  - "Confirm required pages."
+  - "Confirm community is external Discourse."
+  - "Confirm placeholder content rules."
+  - "Confirm no fake authors or citations."
+
+before_codex:
+  - "Provide codex_handoff.yaml."
+  - "Tell Codex to read llm_context first."
+  - "Tell Codex not to change architecture without ADR."
+  - "Tell Codex to create a branch and PR."
+  - "Tell Codex to validate YAML."
+
+before_discourse_deployment:
+  - "Confirm VPS provider."
+  - "Confirm region."
+  - "Confirm SMTP provider."
+  - "Confirm admin email."
+  - "Confirm category model."
+  - "Confirm moderation policy."
+  - "Confirm backup strategy."
+  - "Confirm Cloudflare DNS plan."
+
+before_soft_launch:
+  - "Create 10-20 test users or invitees."
+  - "Seed at least 5 papers or discussions."
+  - "Seed at least 5 questions."
+  - "Test account creation."
+  - "Test email notifications."
+  - "Test moderation workflow."
+  - "Test mobile layout."
+  - "Test public site to community handoff."
+  - "Review first-week moderation load."
+
+red_flags:
+  - "Agent creates custom auth."
+  - "Agent creates fake Masonic history."
+  - "Agent creates fake District approval."
+  - "Agent adds secrets to repo."
+  - "Agent points DNS to home IP."
+  - "Agent broadens scope into LMS or social network."
+  - "Agent creates many categories without owners."

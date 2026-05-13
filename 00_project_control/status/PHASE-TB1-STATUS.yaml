@@ -1,0 +1,52 @@
+schema_version: "1.0"
+document_id: "phase-tb1-status"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+phase_name: "LLM-first context pack"
+status: "draft_pack_generated"
+
+inputs:
+  phase_0:
+    status: "merged_to_main"
+    merge_commit: "8a504ee"
+  architectural_decision:
+    source: "ADR-0001-platform-architecture.md"
+    summary: "Split architecture: public site at tracingboard.org and Discourse community at community.tracingboard.org."
+
+outputs_generated:
+  - "llm_context/README.md"
+  - "llm_context/project_profile.yaml"
+  - "llm_context/platform_architecture.yaml"
+  - "llm_context/product_requirements.yaml"
+  - "llm_context/information_architecture.yaml"
+  - "llm_context/discourse_model.yaml"
+  - "llm_context/editorial_policy.yaml"
+  - "llm_context/moderation_policy.yaml"
+  - "llm_context/member_roles.yaml"
+  - "llm_context/lovable_build_brief.yaml"
+  - "llm_context/codex_handoff.yaml"
+  - "llm_context/non_goals.yaml"
+  - "llm_context/validation_checklist.yaml"
+  - "llm_context/agent_operating_rules.yaml"
+
+next_actions:
+  - "Add pack to repo on feature branch phase-tb1-llm-context."
+  - "Validate YAML."
+  - "Commit and push."
+  - "Use Codex to review consistency and create pull request."
+  - "Use Lovable build brief only after human review."
+
+open_decisions:
+  - id: "OD-001"
+    decision: "Is Tracing Board official, semi-official, committee-supported, or independent?"
+    status: "unresolved"
+  - id: "OD-002"
+    decision: "Which SMTP provider will be used for Discourse?"
+    status: "unresolved"
+  - id: "OD-003"
+    decision: "Will public papers be readable without login?"
+    status: "recommended_yes_but_unresolved"
+  - id: "OD-004"
+    decision: "Will Holy Royal Arch category be member-only or restricted further?"
+    status: "unresolved"

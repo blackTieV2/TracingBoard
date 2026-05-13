@@ -1,0 +1,103 @@
+schema_version: "1.0"
+document_id: "tb-platform-architecture"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+architecture_decision:
+  source_decision_record: "00_project_control/decisions/ADR-0001-platform-architecture.md"
+  core_pattern: "split_platform"
+  summary: "Public editorial website and community platform are separated by subdomain and responsibility."
+
+domains:
+  public_site:
+    fqdn: "tracingboard.org"
+    optional_alias: "www.tracingboard.org"
+    purpose:
+      - "Public brand identity"
+      - "Editorial front door"
+      - "Featured papers"
+      - "Learning pathways"
+      - "Submission guidance"
+      - "Committee landing pages"
+      - "Route users into community"
+    preferred_build_tool: "Lovable"
+    future_engineering_support: "Codex"
+  community:
+    fqdn: "community.tracingboard.org"
+    platform: "Discourse"
+    purpose:
+      - "Member accounts"
+      - "Forum discussion"
+      - "Papers with replies"
+      - "Q&A-style engagement"
+      - "Moderation"
+      - "Trust levels"
+      - "Email notifications and digests"
+      - "Private moderator and committee areas"
+
+hosting_direction:
+  dns_and_edge:
+    provider: "Cloudflare"
+    responsibilities:
+      - "DNS"
+      - "Domain control"
+      - "Basic edge security"
+      - "Potential email routing"
+  public_site:
+    preferred_initial_options:
+      - "Lovable-hosted deployment"
+      - "Static deployment via Cloudflare Pages or similar"
+      - "Future VPS deployment only if justified"
+  community:
+    preferred_provider: "DigitalOcean"
+    preferred_region: "Singapore"
+    preferred_server:
+      vcpu: 2
+      ram_gb: 4
+      disk_gb_minimum: 80
+      os: "Ubuntu 24.04 LTS"
+      hostname: "tb-discourse-01"
+    service: "Discourse"
+  home_lab:
+    production_public_hosting: false
+    allowed_roles:
+      - "Staging"
+      - "Testing"
+      - "Backups"
+      - "RAG experiments"
+      - "Private editorial tooling"
+    rule: "Do not expose Layer-8 Labs as the first production public host for Tracing Board."
+
+security_principles:
+  - "Do not build custom authentication for MVP."
+  - "Do not build a custom forum from scratch."
+  - "Use mature platform controls for accounts, roles, moderation, spam control, and notifications."
+  - "Keep public brand separated from layer-8-labs.com."
+  - "Use Cloudflare and external SMTP/email services rather than home-lab mail hosting."
+
+agent_constraints:
+  codex:
+    may:
+      - "Create branches"
+      - "Add files"
+      - "Review consistency"
+      - "Create deployment scripts"
+      - "Create pull requests"
+      - "Improve formatting"
+      - "Implement public site code from approved brief"
+    must_not:
+      - "Change platform architecture without creating a new ADR"
+      - "Replace Discourse with a custom forum"
+      - "Introduce home-lab public exposure"
+      - "Store secrets in the repo"
+  lovable:
+    may:
+      - "Create the public website front end"
+      - "Create visual layout and page structure"
+      - "Create responsive UI"
+      - "Generate a GitHub-connected app"
+    must_not:
+      - "Build a custom forum"
+      - "Create an independent authentication system for community features"
+      - "Invent unsupported Masonic claims"
+      - "Create misleading official District positioning"

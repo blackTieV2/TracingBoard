@@ -1,0 +1,144 @@
+schema_version: "1.0"
+document_id: "tb-editorial-policy"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+mission:
+  statement: "Encourage serious Masonic learning and constructive discussion."
+  audience: "Brethren seeking thoughtful education, papers, questions, and resources."
+
+suitable_content:
+  - "Masonic papers"
+  - "Lodge talks"
+  - "Short educational reflections"
+  - "Book reviews"
+  - "Historical notes"
+  - "Symbolic interpretations"
+  - "Questions for discussion"
+  - "Learning resources"
+  - "Committee updates"
+  - "Mentoring guidance"
+  - "Event summaries"
+  - "Curated reading lists"
+
+not_suitable:
+  - "Confidential lodge or District business without approval"
+  - "Inappropriate ritual exposure"
+  - "Personal attacks"
+  - "Political campaigning"
+  - "Sectarian argument"
+  - "Anti-Masonic conspiracy material"
+  - "Unsupported sensational claims"
+  - "Plagiarism"
+  - "Copyrighted material without permission"
+  - "Private correspondence without consent"
+  - "Internal disputes or disciplinary matters"
+
+editorial_standards:
+  content_should_be:
+    - "Relevant to Masonic learning"
+    - "Respectful"
+    - "Clear"
+    - "Readable"
+    - "Appropriately sourced where required"
+    - "Careful about historical certainty"
+    - "Mindful of Masonic boundaries"
+    - "Useful to Brethren"
+  authors_should_distinguish:
+    - "Evidence"
+    - "Tradition"
+    - "Interpretation"
+    - "Allegory"
+    - "Personal reflection"
+    - "Lodge practice"
+
+allegory_history_rule:
+  instruction: "Do not imply historical certainty where the material is allegorical, symbolic, legendary, or traditional."
+  examples_of_classification:
+    - "allegory"
+    - "ritual symbolism"
+    - "moral instruction"
+    - "historical claim"
+    - "traditional narrative"
+
+submission_types:
+  full_paper:
+    expected_fields:
+      - "title"
+      - "author"
+      - "summary"
+      - "main_text"
+      - "references_or_source_notes_if_needed"
+      - "suggested_discussion_questions_optional"
+  short_reflection:
+    expected_length_words: "500-1200"
+    suitable_for:
+      - "Symbolic reflections"
+      - "Lodge education prompts"
+      - "Lessons from a talk"
+      - "Personal learning observations"
+  question_for_discussion:
+    expected_fields:
+      - "clear_question"
+      - "context"
+      - "what_contributor_is_trying_to_understand"
+  book_or_resource_recommendation:
+    expected_fields:
+      - "title"
+      - "author_or_source"
+      - "why_it_is_useful"
+      - "suitable_audience"
+      - "cautions_or_limitations"
+  committee_update:
+    expected_fields:
+      - "committee_name"
+      - "summary"
+      - "action_required_if_any"
+      - "owner"
+      - "approval_status_if_required"
+
+workflow:
+  - step: "submission_received"
+    checks:
+      - "relevance"
+      - "tone"
+      - "boundary issues"
+      - "plagiarism/copyright concern"
+      - "suitability for audience"
+  - step: "editorial_review"
+    checks:
+      - "clarity"
+      - "structure"
+      - "claims and sources"
+      - "length"
+      - "category/tag fit"
+  - step: "decision"
+    possible_outcomes:
+      - "publish as submitted"
+      - "publish with light edits"
+      - "publish after revision"
+      - "post as community discussion only"
+      - "decline politely"
+      - "hold for further review"
+
+editing_permissions:
+  light_edits_allowed:
+    - "Spelling"
+    - "Grammar"
+    - "Formatting"
+    - "Headings"
+    - "Minor clarity"
+    - "Broken links"
+    - "Typographical errors"
+  author_approval_required_for:
+    - "Substantial argument changes"
+    - "Meaning changes"
+    - "Removal of major sections"
+    - "Reframing author position"
+
+agent_rules:
+  - "When generating public site content, preserve dignified Masonic tone."
+  - "Do not create unsupported historical claims."
+  - "Do not use biblical or legendary allegory as evidence of ancient ritual lineage."
+  - "Do not invent official District endorsement."
+  - "Flag unclear authority or sensitive content for human review."
