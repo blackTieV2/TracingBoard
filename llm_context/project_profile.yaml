@@ -1,0 +1,81 @@
+schema_version: "1.0"
+document_id: "tb-project-profile"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+project:
+  name: "Tracing Board"
+  domain: "tracingboard.org"
+  previous_form:
+    - "Printed Masonic learning and education periodical"
+    - "Later online forum-style resource through Ashlar/Wix"
+  current_problem:
+    summary: "Legacy forum-style engagement collapsed after Wix platform changes replaced forum functionality with groups."
+    observed_effects:
+      - "Traffic declined sharply"
+      - "Community interaction became weak"
+      - "Existing platform no longer supports the intended Masonic learning model"
+  target_audience:
+    primary:
+      - "Freemasons in the District of the Eastern Archipelago"
+      - "Lodge education officers"
+      - "Preceptors"
+      - "Brethren seeking Masonic papers and discussion"
+      - "Brethren wanting to ask questions in a respectful learning environment"
+    secondary:
+      - "District committees"
+      - "District leadership"
+      - "Approved visiting Brethren"
+      - "Invited contributors"
+  estimated_district_size: 2000
+  engagement_ambition:
+    near_term:
+      - "Soft launch to 10-20 trusted Brethren"
+      - "Reach 50 registered users"
+      - "Reach 150 registered users after controlled District launch"
+    medium_term:
+      target_regular_users: 500
+      target_regular_use_percentage: 25
+      rationale: "25 percent of 2,000 District Brethren would represent meaningful learning culture adoption."
+
+mission:
+  statement: "Tracing Board is a Masonic learning and discussion platform for Brethren seeking thoughtful papers, serious questions, and constructive engagement."
+  plain_language: "The online study room of the District."
+  not_a:
+    - "Social media feed"
+    - "Conspiracy discussion board"
+    - "Unmoderated forum"
+    - "Replacement for official District communications unless formally adopted"
+    - "Custom-built forum experiment"
+
+tone:
+  desired:
+    - "Dignified"
+    - "Serious"
+    - "Readable"
+    - "Welcoming to newer Brethren"
+    - "Useful to experienced Brethren"
+    - "Historically careful"
+    - "Intellectually curious"
+  avoid:
+    - "Sensational"
+    - "Overly academic gatekeeping"
+    - "Casual to the point of triviality"
+    - "Speculative claims presented as fact"
+    - "Hostile debate culture"
+
+success_metrics:
+  behavioural:
+    - "Registered members"
+    - "Monthly active users"
+    - "Returning monthly readers"
+    - "Paper submissions"
+    - "Quality questions asked"
+    - "Replies per discussion"
+    - "Lodges represented"
+    - "Committee contributions"
+    - "Email digest engagement"
+  avoid_overvaluing:
+    - "Vanity page views without participation"
+    - "Large category count"
+    - "Feature count"

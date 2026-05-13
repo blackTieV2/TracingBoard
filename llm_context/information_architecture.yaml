@@ -1,0 +1,179 @@
+schema_version: "1.0"
+document_id: "tb-information-architecture"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+navigation:
+  primary:
+    - label: "Home"
+      path: "/"
+      purpose: "Orient users and route to main actions."
+    - label: "Papers"
+      path: "/papers"
+      purpose: "Browse featured and recent Masonic papers."
+    - label: "Learning Pathways"
+      path: "/learning"
+      purpose: "Guide Brethren by stage and interest."
+    - label: "Questions"
+      path: "/questions"
+      purpose: "Encourage serious questions and route to community."
+    - label: "Committees"
+      path: "/committees"
+      purpose: "Provide learning-related committee visibility."
+    - label: "Submit"
+      path: "/submit"
+      purpose: "Explain contribution process."
+    - label: "Community"
+      path: "/community"
+      purpose: "Route to Discourse community."
+  footer:
+    - label: "About"
+      path: "/about"
+    - label: "Editorial Standards"
+      path: "/editorial-standards"
+    - label: "Community Standards"
+      path: "/community-standards"
+    - label: "Privacy"
+      path: "/privacy"
+    - label: "Contact"
+      path: "/contact"
+
+pages:
+  home:
+    route: "/"
+    page_goal: "Present Tracing Board as a serious and welcoming Masonic learning platform."
+    sections:
+      - "Hero statement"
+      - "Featured paper"
+      - "Question of the week"
+      - "Recent discussions"
+      - "Learning pathways"
+      - "Committee highlights"
+      - "Join the community"
+      - "Submit a paper"
+    primary_cta: "Join the community"
+    secondary_cta: "Read featured papers"
+  about:
+    route: "/about"
+    page_goal: "Explain history, purpose, governance, and current operating model."
+  papers:
+    route: "/papers"
+    page_goal: "Enable browsing and discovery of papers."
+    filters:
+      - "Topic"
+      - "Degree or stage"
+      - "Author"
+      - "Date"
+  learning:
+    route: "/learning"
+    page_goal: "Guide members to suitable material."
+    pathways:
+      - "Newer Brethren"
+      - "Craft Masonry"
+      - "Fellow Craft Study"
+      - "Master Mason Study"
+      - "Holy Royal Arch"
+      - "Lodge Education Officers"
+      - "Masonic History"
+      - "Symbolism and Allegory"
+      - "Leadership and Lodge Practice"
+  questions:
+    route: "/questions"
+    page_goal: "Normalize and encourage sincere questions."
+    destination: "community.tracingboard.org/c/questions-from-brethren"
+  committees:
+    route: "/committees"
+    page_goal: "Provide structured space for committee learning resources."
+    committee_pages_initial:
+      - "Education"
+      - "Preceptors"
+      - "Royal Arch Education"
+      - "Membership"
+      - "Charity"
+      - "Communications"
+  submit:
+    route: "/submit"
+    page_goal: "Explain contribution types and submission expectations."
+    submission_types:
+      - "Paper"
+      - "Short reflection"
+      - "Question"
+      - "Book/resource recommendation"
+      - "Event notice"
+      - "Committee update"
+  community:
+    route: "/community"
+    page_goal: "Bridge from public site to Discourse."
+  contact:
+    route: "/contact"
+    page_goal: "Provide editorial, technical, and moderation contact routes."
+
+content_types:
+  paper:
+    fields:
+      - "title"
+      - "author"
+      - "date"
+      - "summary"
+      - "body"
+      - "topic_tags"
+      - "lodge_or_attribution"
+      - "discussion_link"
+      - "editorial_status"
+  question:
+    fields:
+      - "title"
+      - "full_question"
+      - "category"
+      - "submitted_by"
+      - "status"
+      - "accepted_answer"
+  committee_update:
+    fields:
+      - "title"
+      - "committee"
+      - "date"
+      - "summary"
+      - "body"
+      - "owner"
+  resource:
+    fields:
+      - "title"
+      - "author_or_source"
+      - "description"
+      - "topic"
+      - "suitability_level"
+      - "link_or_file"
+  event:
+    fields:
+      - "title"
+      - "organiser"
+      - "date_time"
+      - "location_or_online"
+      - "description"
+      - "registration_contact"
+
+tags_initial:
+  - "craft"
+  - "entered-apprentice"
+  - "fellow-craft"
+  - "master-mason"
+  - "royal-arch"
+  - "symbolism"
+  - "history"
+  - "ritual"
+  - "lodge-education"
+  - "leadership"
+  - "mentoring"
+  - "book-recommendation"
+  - "question"
+  - "paper"
+  - "committee-update"
+
+ux_rules:
+  - "Keep navigation shallow."
+  - "Make the community link obvious."
+  - "Do not hide papers behind login unless policy requires it."
+  - "Use dignified but modern visual design."
+  - "Prefer clarity over ornate Masonic visual clichés."
+  - "Design for mobile reading."

@@ -1,0 +1,101 @@
+schema_version: "1.0"
+document_id: "tb-member-roles"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+roles:
+  visitor:
+    description: "Unauthenticated public visitor."
+    capabilities:
+      - "Read public pages"
+      - "Read public community categories if enabled"
+      - "Use public contact/submission paths"
+    restrictions:
+      - "Cannot post"
+      - "Cannot access member-only categories"
+  member:
+    description: "Registered and approved Brother/member."
+    capabilities:
+      - "Read member categories"
+      - "Reply to discussions"
+      - "Ask questions"
+      - "Follow topics"
+      - "Receive notifications"
+    restrictions:
+      - "May require first-post approval"
+      - "Limited uploads and links initially"
+  approved_contributor:
+    description: "Member permitted to submit or post papers with editorial oversight."
+    capabilities:
+      - "Submit papers"
+      - "Post in papers category if enabled"
+      - "Participate in contributor discussions"
+    restrictions:
+      - "Must follow editorial policy"
+      - "May require review before publication"
+  committee_lead:
+    description: "Approved representative for a District committee or learning group."
+    capabilities:
+      - "Post committee updates"
+      - "Maintain committee resources"
+      - "Coordinate committee discussion"
+    restrictions:
+      - "Should not make unauthorised official policy statements"
+  moderator:
+    description: "Trusted user with moderation powers."
+    capabilities:
+      - "Handle flags"
+      - "Move topics"
+      - "Edit titles/tags"
+      - "Hide problematic content"
+      - "Issue moderator notes"
+      - "Escalate serious issues"
+    restrictions:
+      - "Must document serious actions"
+      - "Must not use moderation tools to win arguments"
+  editor:
+    description: "Owner of editorial direction and publication standards."
+    capabilities:
+      - "Approve public content"
+      - "Set editorial priorities"
+      - "Coordinate contributors"
+      - "Resolve editorial disputes"
+    restrictions:
+      - "Must distinguish editorial decisions from moderation decisions"
+  administrator:
+    description: "Technical and platform administrator."
+    capabilities:
+      - "Manage platform settings"
+      - "Manage users/groups"
+      - "Configure categories"
+      - "Configure backups"
+      - "Manage plugins/integrations"
+    restrictions:
+      - "Must not store secrets in repo"
+      - "Must follow architecture decisions"
+
+approval_model:
+  registration:
+    recommended_initial_mode: "approval_required_or_invite_based_for_soft_launch"
+    reason: "Protect tone and avoid spam during launch."
+  first_post:
+    recommended: true
+    reason: "Sets quality standard and catches spam early."
+  anonymous_posting:
+    enabled_for_mvp: false
+
+groups:
+  recommended_initial:
+    - "staff"
+    - "moderators"
+    - "approved-contributors"
+    - "committee-leads"
+    - "soft-launch-reviewers"
+
+account_identity:
+  preferred: "Identifiable member names or approved display names."
+  avoid:
+    - "Anonymous accounts"
+    - "Misleading names"
+    - "Impersonation"
+    - "Multiple accounts without approval"

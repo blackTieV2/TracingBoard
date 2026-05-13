@@ -1,0 +1,107 @@
+schema_version: "1.0"
+document_id: "tb-lovable-build-brief"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+instruction_to_lovable:
+  role: "You are building the public-facing website for Tracing Board."
+  source_of_truth:
+    - "llm_context/project_profile.yaml"
+    - "llm_context/platform_architecture.yaml"
+    - "llm_context/product_requirements.yaml"
+    - "llm_context/information_architecture.yaml"
+    - "llm_context/editorial_policy.yaml"
+  build_target:
+    domain: "tracingboard.org"
+    app_type: "Public editorial and learning website"
+  do_not_build:
+    - "Custom forum"
+    - "Custom authentication system"
+    - "Replacement for Discourse"
+    - "Private ritual disclosure system"
+    - "Payment or membership system"
+    - "Official District claims unless explicitly provided"
+
+site_goal:
+  primary: "Create a dignified, modern, readable public website that introduces Tracing Board and routes members into papers, learning pathways, submissions, and community discussion."
+  emotional_target:
+    - "Serious"
+    - "Welcoming"
+    - "Masonic"
+    - "Educational"
+    - "Credible"
+    - "Not old-fashioned or cluttered"
+
+visual_direction:
+  style:
+    - "Modern editorial"
+    - "Masonic-inspired but restrained"
+    - "High readability"
+    - "Warm, dignified colour palette"
+    - "Strong typography"
+    - "Subtle symbolic references"
+  avoid:
+    - "Overuse of clip-art Masonic symbols"
+    - "Conspiracy aesthetic"
+    - "Dark occult styling"
+    - "Crowded lodge noticeboard layout"
+    - "Generic corporate SaaS look"
+
+required_pages:
+  - route: "/"
+    name: "Home"
+    sections:
+      - "Hero"
+      - "Featured paper"
+      - "Question of the week"
+      - "Learning pathways"
+      - "Recent discussions"
+      - "Committee highlights"
+      - "Join community CTA"
+  - route: "/about"
+    name: "About"
+  - route: "/papers"
+    name: "Papers"
+  - route: "/learning"
+    name: "Learning Pathways"
+  - route: "/questions"
+    name: "Questions"
+  - route: "/committees"
+    name: "Committees"
+  - route: "/submit"
+    name: "Submit"
+  - route: "/community"
+    name: "Community"
+  - route: "/contact"
+    name: "Contact"
+
+core_ctas:
+  primary:
+    text: "Join the Community"
+    destination: "https://community.tracingboard.org"
+  secondary:
+    text: "Read Featured Papers"
+    destination: "/papers"
+  tertiary:
+    text: "Submit a Paper"
+    destination: "/submit"
+
+placeholder_content_rules:
+  - "Use placeholders only where real papers are missing."
+  - "Mark placeholders clearly in comments or content data."
+  - "Do not invent fake historical citations."
+  - "Do not invent official District endorsements."
+  - "Do not invent named authors unless supplied."
+
+handoff_expectations:
+  output_should_include:
+    - "Responsive website"
+    - "Readable page structure"
+    - "Reusable components"
+    - "GitHub-connected codebase if possible"
+    - "Clear route/page organization"
+    - "No custom community backend"
+  after_generation:
+    - "Codex should review code quality"
+    - "Codex should check accessibility and broken links"
+    - "Codex should ensure community links are configurable"

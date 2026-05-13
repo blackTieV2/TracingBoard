@@ -1,0 +1,152 @@
+schema_version: "1.0"
+document_id: "tb-moderation-policy"
+phase: "TB-1"
+last_updated: "2026-05-13"
+
+moderation_philosophy:
+  phrase: "firm civility"
+  purpose: "Create a serious, constructive, and welcoming Masonic learning environment."
+  moderation_should_be:
+    - "Fair"
+    - "Consistent"
+    - "Proportionate"
+    - "Transparent where possible"
+    - "Educational before punitive"
+    - "Protective of newer Brethren"
+    - "Protective of Masonic dignity"
+
+member_expectations:
+  - "Write respectfully"
+  - "Assume good faith unless there is reason not to"
+  - "Distinguish fact, interpretation, tradition, and personal opinion"
+  - "Cite or identify sources where appropriate"
+  - "Avoid ridicule of sincere questions"
+  - "Avoid personal attacks"
+  - "Avoid inflammatory language"
+  - "Avoid political or sectarian argument"
+  - "Avoid conspiracy framing"
+  - "Respect Masonic boundaries"
+  - "Comply with moderator direction"
+
+welcome_content:
+  - "Masonic papers"
+  - "Thoughtful questions"
+  - "Respectful discussion"
+  - "Educational reflections"
+  - "Book recommendations"
+  - "Historical source discussion"
+  - "Symbolic interpretation"
+  - "Lodge education ideas"
+  - "Committee updates"
+  - "Mentoring resources"
+  - "Constructive feedback"
+
+prohibited_content:
+  - "Personal attacks"
+  - "Harassment"
+  - "Bullying"
+  - "Doxxing or disclosure of private information"
+  - "Sectarian argument"
+  - "Party-political campaigning"
+  - "Racial, ethnic, religious, or national abuse"
+  - "Anti-Masonic conspiracy posting"
+  - "Sensationalist claims presented as fact"
+  - "Deliberate misinformation"
+  - "Copyright-infringing uploads"
+  - "Plagiarism"
+  - "Spam"
+  - "Commercial promotion without permission"
+  - "Anonymous accusations"
+  - "Internal disciplinary matters"
+  - "Confidential lodge or District business unless authorised"
+  - "Ritual exposure outside appropriate boundaries"
+
+masonic_boundary_test:
+  questions:
+    - "Is the content suitable for the audience that can see it?"
+    - "Does it disclose anything that should not be public or widely accessible?"
+    - "Is it educational rather than sensational?"
+    - "Is the contributor entitled to discuss this material?"
+    - "Would this content embarrass the platform, District, or a Lodge if taken out of context?"
+  if_unsure: "Hold content for review."
+
+moderation_actions:
+  - id: "ACT-001"
+    action: "Leave visible"
+  - id: "ACT-002"
+    action: "Light edit"
+    examples:
+      - "Title"
+      - "Tags"
+      - "Formatting"
+      - "Obvious typo"
+  - id: "ACT-003"
+    action: "Moderator note"
+  - id: "ACT-004"
+    action: "Move topic"
+  - id: "ACT-005"
+    action: "Split topic"
+  - id: "ACT-006"
+    action: "Hide or hold for review"
+  - id: "ACT-007"
+    action: "Edit for compliance"
+  - id: "ACT-008"
+    action: "Private warning"
+  - id: "ACT-009"
+    action: "Temporary suspension"
+  - id: "ACT-010"
+    action: "Ban account"
+
+escalation:
+  low:
+    examples:
+      - "Unclear title"
+      - "Wrong category"
+      - "Minor tone issue"
+      - "Missing source"
+    typical_action:
+      - "Edit"
+      - "Move"
+      - "Request clarification"
+  moderate:
+    examples:
+      - "Repeated poor tone"
+      - "Speculative claims stated as fact"
+      - "Inappropriate argument"
+      - "Off-topic disruption"
+    typical_action:
+      - "Moderator note"
+      - "Private warning"
+      - "Temporary topic closure"
+  serious:
+    examples:
+      - "Harassment"
+      - "Confidential information disclosure"
+      - "Abusive content"
+      - "Anti-Masonic conspiracy posting"
+      - "Deliberate disruption"
+    typical_action:
+      - "Hide content"
+      - "Suspend account"
+      - "Escalate to editor/admin"
+  critical:
+    examples:
+      - "Legal threat"
+      - "Doxxing"
+      - "Serious confidentiality breach"
+      - "Threats of harm"
+      - "Major reputational risk"
+    typical_action:
+      - "Immediately hide content"
+      - "Preserve evidence"
+      - "Notify editor/admin"
+      - "Determine external escalation if required"
+
+launch_settings:
+  - "Approve first post or first topic"
+  - "Restrict new user uploads"
+  - "Restrict new user links"
+  - "Enable flagging"
+  - "Enable staff-only moderation category"
+  - "Create moderator group"
+  - "Create approved contributor group"
